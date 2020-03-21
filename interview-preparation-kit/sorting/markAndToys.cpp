@@ -6,7 +6,7 @@ vector<string> split_string(string);
 
 void merge(vector<int> &arr, int l, int m, int r) {
     int i, j, k;
-    int n1 = m - l + 1, n2 = r - m;;
+    int n1 = m - l + 1, n2 = r - m;
     vector<int> L(n1), R(n2);
 
     for(i = 0; i < n1; i++) {
