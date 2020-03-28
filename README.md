@@ -1,1 +1,1 @@
-Solutions to several HackerRank problems in C++.
+Solutions to several HackerRank problems, primarily in C++.
